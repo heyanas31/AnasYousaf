@@ -1,4 +1,3 @@
-# AnasYousaf
 Config files for my GitHub profile.
 <h1 align="center">AOA 👋, I'm Anas Yousaf</h1>
 <h3 align="center">A passionate computer science student from Lahore Pakistan.</h3>
